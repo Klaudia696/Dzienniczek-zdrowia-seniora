@@ -1,0 +1,26 @@
+
+  #obrazek {
+
+    width: 1400px;
+    height: 500px;
+    margin: 0 auto 0 auto;
+    background: url(../img/seniorIndexG.jpg);
+}
+
+#layout {
+    width: 1400px;
+    height: 510px;
+    background: url(../img/senior.jpg) left center no-repeat;
+		background: url(../img/old.jpg) center no-repeat;
+}
+
+#layout2 {
+    width: 1400px;
+    height: 510px;
+    background-image: url(../img/senior.jpg) center no-repeat;
+}
+
+body{
+  background-image:url(../img/tlo2.jpg); /* podajemy ścieżkę do tła */
+  background-repeat:repeat;
+}

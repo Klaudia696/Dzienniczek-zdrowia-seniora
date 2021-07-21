@@ -1,0 +1,19 @@
+#layout {
+    width: 1400px;
+    height: 510px;
+		background: url(../img/senior.jpg) center no-repeat;
+}
+#input{
+  margin: center; width: 150px; display: block;
+}
+
+#layout2 {
+    width: 1400px;
+    height: 510px;
+		background: url(../img/old.jpg) center no-repeat;
+}
+#layout3 {
+    width: 1400px;
+    height: 510px;
+		background: url(../img/old.jpg) bottom center no-repeat;
+}
